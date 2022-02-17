@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "0x1f8b",
+  "address": "0x8DB32d6ECCe6b7a3DBEbFAEbE9B329022EC86aCF",
+  "risk": "3",
+  "title": "Oracle price could not be fresh",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/10"
+}
