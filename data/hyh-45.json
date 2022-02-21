@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "3",
+  "title": "Healthy positions can be liquidated as margin calculations ignore decimals of the components",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/45"
+}
