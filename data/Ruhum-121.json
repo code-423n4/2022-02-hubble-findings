@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "ClearingHouse looping over dynamic array might result in a DOS because of the block gas limit",
+  "issueId": 121,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/121"
+}
