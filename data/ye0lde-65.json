@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "ye0lde",
+  "address": "0x81D4cf8A3892557e4a1571e97b88f0351eF0dcFD",
+  "risk": "2",
+  "title": "Functions `getLatestRoundData` and `getRoundData` do not check that the price returned from a chainlink aggregator is != 0 (Oracle.sol) ",
+  "issueId": 65,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/65"
+}
