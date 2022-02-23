@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "`AMM._getPnlWhileReducingPosition()` Does Not Handle The Zero Case",
+  "issueId": 136,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/136"
+}
