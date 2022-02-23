@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "Meta0xNull",
+  "address": "0xfa2Df13a636b8F2FAaA179785797f1f16fDdF8ED",
+  "risk": "3",
+  "title": "Attacker may DDOS Withdrawal by Making Multiple Small Requests to withdraw()",
+  "issueId": 71,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/71"
+}
