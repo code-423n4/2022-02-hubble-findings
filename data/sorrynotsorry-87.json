@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "sorrynotsorry",
+  "address": "0x6262f720679C04cc7f2a14c0c03486D0287c4853",
+  "risk": "2",
+  "title": "Re-entrancy",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/87"
+}
