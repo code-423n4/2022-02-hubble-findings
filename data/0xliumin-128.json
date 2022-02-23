@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "0xliumin",
+  "address": "0x25E48B090B3104A3fB30B19AFB6f4850316c5bBF",
+  "risk": "3",
+  "title": "Assets sent from MarginAccount to InsuranceFund will be locked forever",
+  "issueId": 128,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/128"
+}
