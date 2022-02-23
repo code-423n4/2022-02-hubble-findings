@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "bw",
+  "address": "0x3d977eF4855A526500E901bFA43c209E0C51BA84",
+  "risk": "3",
+  "title": "`settleFunding` will exceed block gas with more markets and activity",
+  "issueId": 97,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/97"
+}
