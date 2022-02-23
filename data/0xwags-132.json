@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "2",
+  "title": "Wrong return value will distort the calculations of the margin during Liquidations ",
+  "issueId": 132,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/132"
+}
