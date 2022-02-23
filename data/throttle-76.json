@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "throttle",
+  "address": "0x210b0D0694ff95c99dD693DD89CDF2f88de6beC4",
+  "risk": "2",
+  "title": "USDC blacklisted accounts can DoS the withdrawal system",
+  "issueId": 76,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/76"
+}
