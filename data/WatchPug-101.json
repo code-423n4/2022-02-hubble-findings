@@ -1,0 +1,9 @@
+{
+  "contest": 89,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H4] The collateral assets impounded with `settleBadDebt()` will be frozen in the `insuranceFund` contract",
+  "issueId": 101,
+  "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/101"
+}
