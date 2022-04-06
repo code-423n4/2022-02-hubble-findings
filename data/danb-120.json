@@ -2,7 +2,7 @@
   "contest": 89,
   "handle": "danb",
   "address": "0x5aDFFa8A38adc0810c1D714624F8Ce52A3a27961",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 120,
   "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/120"
