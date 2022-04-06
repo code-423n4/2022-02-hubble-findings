@@ -2,7 +2,7 @@
   "contest": 89,
   "handle": "bobi",
   "address": "0x8f24b7bee60c5421101e2e596b1008522368920f",
-  "risk": "1",
+  "risk": "Q",
   "title": "QA Report",
   "issueId": 107,
   "issueUrl": "https://github.com/code-423n4/2022-02-hubble-findings/issues/107"
