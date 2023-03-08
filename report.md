@@ -1,3 +1,11 @@
+---
+sponsor: "Hubble"
+slug: "2022-02-hubble"
+date: "2022-06-02"
+title: "Hubble contest"
+findings: "https://github.com/code-423n4/2022-02-hubble-findings/issues"
+contest: 89
+---
 
 # Overview
 
